@@ -1,5 +1,5 @@
 import pandas as pd
-import ploty.express as px
+import plotly.express as px
 import streamlit as st
 st.title("Data Visualization with Streamlit")
 st.write("This is a simple data visualization app using Streamlit.")
